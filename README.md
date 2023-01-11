@@ -2,5 +2,5 @@
 
 I'm a QA Engineer
 
-
+[My Resume](https://docs.google.com/spreadsheets/d/1g7_P5C9VRIGODQOmj19qpzFQttrxxh6amz6wt-OhbiA/edit?usp=share_link)
 
