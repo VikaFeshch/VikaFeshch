@@ -2,7 +2,7 @@
 
 ### I'm a QA Engineer
 
-### [My Resume](https://docs.google.com/spreadsheets/d/1g7_P5C9VRIGODQOmj19qpzFQttrxxh6amz6wt-OhbiA/edit?usp=share_link)
+### [Link to my Resume](https://docs.google.com/spreadsheets/d/1g7_P5C9VRIGODQOmj19qpzFQttrxxh6amz6wt-OhbiA/edit?usp=share_link)
 
 ### Language and Tools
 ![Header](https://img.shields.io/badge/Jira-090909?style=for-the-badge&logo=jira&logoColor=136be1)
@@ -12,6 +12,14 @@
 ![Header](https://img.shields.io/badge/MySQL-090909?style=for-the-badge&logo=mysql&logoColor=00618a)
 ![Header](https://img.shields.io/badge/DevTools-090909?style=for-the-badge&logo=googlechrome&logoColor=2674f2)
 ![Header](https://img.shields.io/badge/Figma-090909?style=for-the-badge&logo=figma&logoColor=7d5fa6)
+
+### Testing Documentation
+
+- [Checklists]()
+- [Test-Suites and Test-Cases]()
+- [Bug-Reports]()
+- [SQL Queries]()
+- [Postman Collections]()
 
 
 
