@@ -16,7 +16,7 @@
 ### Testing Documentation
 
 - [Checklists](https://docs.google.com/spreadsheets/d/1blgqwT6BRaHxZSh6S0pBE3rJRYaIIVw5U_7WfnozEVw/edit?usp=share_link)
-- [Test-Suites and Test-Cases]()
+- [Test-Suites and Test-Cases](https://github.com/VikaFeshch/portfolio-QA.git)
 - [Bug-Reports]()
 - [SQL Queries]()
 - [Postman Collections]()
