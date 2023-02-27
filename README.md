@@ -21,6 +21,6 @@
   * [for testing Registration Form](https://github.com/VikaFeshch/test-cases-for-registration-form.git)
 - [Bug-Reports](https://docs.google.com/spreadsheets/d/1RdZ2P0deSJBa9SdDjbMgaV5EdtHFYSDHuINDdRZ_gik/edit?usp=share_link)
 
-
+<a href="https://freelancehunt.com/freelancer/vikafeshch.html?from=shield&r=GdYEm" target="_blank"><img src="https://freelancehunt.com/shields/display/id/1340733/type/rating?style=social&amp;lang=uk&amp;showName=1" alt="Freelancehunt — простий та чесний фриланс"></a>
 
 
