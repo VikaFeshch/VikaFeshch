@@ -19,7 +19,11 @@
 - Test-Suites and Test-Cases
   * [for testing API](https://github.com/VikaFeshch/portfolio-QA.git)
   * [for testing Registration Form](https://github.com/VikaFeshch/test-cases-for-registration-form.git)
-- [Bug-Reports](https://docs.google.com/spreadsheets/d/1RdZ2P0deSJBa9SdDjbMgaV5EdtHFYSDHuINDdRZ_gik/edit?usp=share_link)
+- [Bug Reports]
+  * [Bug Reports for Registration Form ](https://docs.google.com/spreadsheets/d/1RdZ2P0deSJBa9SdDjbMgaV5EdtHFYSDHuINDdRZ_gik/edit?usp=share_link)
+  * [Bug Report OO_1 for non-existent OO Writer by Jira](https://drive.google.com/file/d/1EIy1cSJ4Tp_6Q_b6eAoFDi8iDZSrAV6Q/view?usp=share_link)
+  * [Bug Report OO_2 for non-existent OO Writer by Jira](https://drive.google.com/file/d/1LT7xm7m85gygCPML_Zk9dGc9jmAptAaD/view?usp=share_link)
+  * [Bug Report OO_3 for non-existent OO Writer by Google Sheets](https://docs.google.com/spreadsheets/d/1xAylshaCPus_6k76rwnf31_1i1WjGgr4DlVz5l1RXBQ/edit?usp=share_link)
 
 <a href="https://freelancehunt.com/freelancer/vikafeshch.html?from=shield&r=GdYEm" target="_blank"><img src="https://freelancehunt.com/shields/display/id/1340733/type/rating?style=social&amp;lang=uk&amp;showName=1" alt="Freelancehunt — простий та чесний фриланс"></a>
 
