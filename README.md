@@ -19,6 +19,7 @@
 - Test-Suites and Test-Cases
   * [for testing API](https://github.com/VikaFeshch/portfolio-QA.git)
   * [for testing Registration Form](https://github.com/VikaFeshch/test-cases-for-registration-form.git)
+  * [for testing Login Form](https://docs.google.com/spreadsheets/d/1B5BVNMqF1wvFZhyQzTRZqrtHeavaiLCt7YxkGT3XMHM/edit?usp=sharing)
 - [Bug Reports]
   * [Bug Reports for Registration Form ](https://docs.google.com/spreadsheets/d/1RdZ2P0deSJBa9SdDjbMgaV5EdtHFYSDHuINDdRZ_gik/edit?usp=share_link)
   * [Bug Report OO_1 for non-existent OO Writer by Jira](https://drive.google.com/file/d/1EIy1cSJ4Tp_6Q_b6eAoFDi8iDZSrAV6Q/view?usp=share_link)
