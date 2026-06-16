@@ -2,7 +2,7 @@
 
 ### I'm a QA Engineer
 
-### [Link to my Resume](https://drive.google.com/file/d/1o-2_tU0O09cg-suPWw4cx3v0V_wMYckB/view?usp=sharing)
+### [Link to my Resume](https://drive.google.com/file/d/1if8TNMSzTm7z6lF5d7S7DBWXrm0GUzI3/view?usp=sharing)
 
 ### Language and Tools
 ![Header](https://img.shields.io/badge/Jira-090909?style=for-the-badge&logo=jira&logoColor=136be1)
